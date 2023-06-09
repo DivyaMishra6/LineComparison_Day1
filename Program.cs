@@ -4,9 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Print Line Length");
-
-            
+            Console.WriteLine("Welcome to Line Comaprison Problem");
+            CalculateLength.call();            
         }
     }
 }
